@@ -1,6 +1,7 @@
 # 中文诗词写作模型微调
 ### 项目结构
 -chinese-poetry-collection 源数据集，来自魔搭社区的大佬
+http://www.modelscope.cn/datasets/modelscope/chinese-poetry-collection.git
 
 -dataProcessing.py 数据预处理，将源数据集转化为messages格式用于微调
 
